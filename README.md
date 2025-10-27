@@ -35,6 +35,16 @@ cd ml_model
 pip install -r requirements.txt
 ```
 
+### 3. Download the Dataset (Required for model training):
+
+The CSE-CIC-IDS2018 dataset is not included in the repository due to its large size (341 MB). To train the model:
+
+1. Download the dataset from: [CSE-CIC-IDS2018 Dataset](https://www.unb.ca/cic/datasets/ids-2018.html)
+2. Download specifically: `Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv`
+3. Place it in the `cicids2018/` directory
+
+**Note:** The pre-trained model files are already included in `public/models/threat-detector/`, so you can skip this step if you don't need to retrain the model.
+
 ## 🧠 ML Model Training (Optional)
 
 The project includes pre-trained models, but you can retrain them:
