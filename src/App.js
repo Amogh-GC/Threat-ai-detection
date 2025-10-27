@@ -6,6 +6,7 @@ import HowItWorks from './components/HowItWorks';
 import Benefits from './components/Benefits';
 import UseCases from './components/UseCases';
 import Architecture from './components/Architecture';
+import ThreatDetectionDemoML from './components/ThreatDetectionDemoML';
 import Insights from './components/Insights';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -20,6 +21,7 @@ function App() {
       <Benefits />
       <UseCases />
       <Architecture />
+      <ThreatDetectionDemoML />
       <Insights />
       <Contact />
       <Footer />

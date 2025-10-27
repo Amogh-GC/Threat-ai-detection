@@ -1,0 +1,9002 @@
+[
+  {
+    "Flow Duration": 83,
+    "Flow IAT Mean": 83.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 83,
+    "Flow IAT Min": 83,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1182285,
+    "Flow IAT Mean": 107480.454545455,
+    "Flow IAT Std": 125734.412325635,
+    "Flow IAT Max": 285384,
+    "Flow IAT Min": 35,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5532595,
+    "Flow IAT Mean": 291189.210526316,
+    "Flow IAT Std": 1219169.99348234,
+    "Flow IAT Max": 5325098,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 31638,
+    "Flow IAT Mean": 10546.0,
+    "Flow IAT Std": 9594.4487595693,
+    "Flow IAT Max": 19248,
+    "Flow IAT Min": 257,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 427,
+    "Flow IAT Mean": 427.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 427,
+    "Flow IAT Min": 427,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 127,
+    "Flow IAT Mean": 127.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 127,
+    "Flow IAT Min": 127,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 112638083,
+    "Flow IAT Mean": 56319041.5,
+    "Flow IAT Std": 0.7071067812,
+    "Flow IAT Max": 56319042,
+    "Flow IAT Min": 56319041,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 237,
+    "Flow IAT Mean": 237.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 237,
+    "Flow IAT Min": 237,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 36596,
+    "Flow IAT Mean": 9149.0,
+    "Flow IAT Std": 10027.6517357422,
+    "Flow IAT Max": 18297,
+    "Flow IAT Min": 72,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 532,
+    "Flow IAT Mean": 88.6666666667,
+    "Flow IAT Std": 61.892379714,
+    "Flow IAT Max": 153,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 60923186,
+    "Flow IAT Mean": 3206483.47368421,
+    "Flow IAT Std": 4737496.06023641,
+    "Flow IAT Max": 10003907,
+    "Flow IAT Min": 64,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 86061645,
+    "Flow IAT Mean": 5737443.0,
+    "Flow IAT Std": 22196203.0733303,
+    "Flow IAT Max": 85971925,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 382899,
+    "Flow IAT Mean": 8508.8666666667,
+    "Flow IAT Std": 15503.3577368963,
+    "Flow IAT Max": 69251,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 100426380,
+    "Flow IAT Mean": 20085276.0,
+    "Flow IAT Std": 27503207.5653784,
+    "Flow IAT Max": 50426808,
+    "Flow IAT Min": 71,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 42,
+    "Flow IAT Mean": 42.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 42,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 8180223,
+    "Flow IAT Mean": 409011.15,
+    "Flow IAT Std": 913205.175750212,
+    "Flow IAT Max": 3007707,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 369481,
+    "Flow IAT Mean": 8592.5813953488,
+    "Flow IAT Std": 22766.8655236723,
+    "Flow IAT Max": 97771,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 406645,
+    "Flow IAT Mean": 9456.8604651163,
+    "Flow IAT Std": 25147.6072814108,
+    "Flow IAT Max": 118172,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 37,
+    "Flow IAT Mean": 37.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 37,
+    "Flow IAT Min": 37,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 71294239,
+    "Flow IAT Mean": 2640527.37037037,
+    "Flow IAT Std": 4417789.20867587,
+    "Flow IAT Max": 10088708,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 29,
+    "Flow IAT Mean": 29.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 29,
+    "Flow IAT Min": 29,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1474,
+    "Flow IAT Mean": 1474.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1474,
+    "Flow IAT Min": 1474,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 307857,
+    "Flow IAT Mean": 7159.4651162791,
+    "Flow IAT Std": 19453.3319527589,
+    "Flow IAT Max": 108612,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 53688125,
+    "Flow IAT Mean": 53688125.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 53688125,
+    "Flow IAT Min": 53688125,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 33,
+    "Flow IAT Mean": 33.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 33,
+    "Flow IAT Min": 33,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 46160185,
+    "Flow IAT Mean": 769336.416666667,
+    "Flow IAT Std": 2601175.29203875,
+    "Flow IAT Max": 10013918,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 48,
+    "Flow IAT Mean": 48.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 48,
+    "Flow IAT Min": 48,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 313640,
+    "Flow IAT Mean": 7293.9534883721,
+    "Flow IAT Std": 13995.3936366722,
+    "Flow IAT Max": 53733,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 353099,
+    "Flow IAT Mean": 8211.6046511628,
+    "Flow IAT Std": 21165.7312498288,
+    "Flow IAT Max": 120583,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 419,
+    "Flow IAT Mean": 419.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 419,
+    "Flow IAT Min": 419,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 115455755,
+    "Flow IAT Mean": 2456505.42553191,
+    "Flow IAT Std": 4284685.82005973,
+    "Flow IAT Max": 10005584,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 8867173,
+    "Flow IAT Mean": 38056.5364806867,
+    "Flow IAT Std": 343212.05259907,
+    "Flow IAT Max": 4902779,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 27,
+    "Flow IAT Mean": 27.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 27,
+    "Flow IAT Min": 27,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5967321,
+    "Flow IAT Mean": 372957.5625,
+    "Flow IAT Std": 902242.002310982,
+    "Flow IAT Max": 3596199,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 17386,
+    "Flow IAT Mean": 5795.3333333333,
+    "Flow IAT Std": 8558.9160723385,
+    "Flow IAT Max": 15672,
+    "Flow IAT Min": 551,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2660498,
+    "Flow IAT Mean": 190035.571428571,
+    "Flow IAT Std": 257237.866799378,
+    "Flow IAT Max": 953108,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 117031532,
+    "Flow IAT Mean": 3901051.06666667,
+    "Flow IAT Std": 14795521.0754989,
+    "Flow IAT Max": 58670736,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 154363,
+    "Flow IAT Mean": 51454.3333333333,
+    "Flow IAT Std": 88471.1626143419,
+    "Flow IAT Max": 153612,
+    "Flow IAT Min": 305,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 175629,
+    "Flow IAT Mean": 58543.0,
+    "Flow IAT Std": 100014.662190101,
+    "Flow IAT Max": 174027,
+    "Flow IAT Min": 82,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 365431,
+    "Flow IAT Mean": 8912.9512195122,
+    "Flow IAT Std": 20440.9267352916,
+    "Flow IAT Max": 86614,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 16698656,
+    "Flow IAT Mean": 834932.8,
+    "Flow IAT Std": 2509595.50519124,
+    "Flow IAT Max": 9961493,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 35,
+    "Flow IAT Mean": 35.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 35,
+    "Flow IAT Min": 35,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 439,
+    "Flow IAT Mean": 439.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 439,
+    "Flow IAT Min": 439,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 287,
+    "Flow IAT Mean": 287.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 287,
+    "Flow IAT Min": 287,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 183307,
+    "Flow IAT Mean": 13093.3571428571,
+    "Flow IAT Std": 22748.9786097247,
+    "Flow IAT Max": 82971,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 80,
+    "Flow IAT Mean": 80.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 80,
+    "Flow IAT Min": 80,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 8,
+    "Flow IAT Mean": 8.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 8,
+    "Flow IAT Mean": 8.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 110391723,
+    "Flow IAT Mean": 12767.9531575295,
+    "Flow IAT Std": 344059.3079087,
+    "Flow IAT Max": 9714129,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 117179853,
+    "Flow IAT Mean": 4184994.75,
+    "Flow IAT Std": 15312852.718238,
+    "Flow IAT Max": 58724622,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 359027,
+    "Flow IAT Mean": 7978.3777777778,
+    "Flow IAT Std": 17669.3793355636,
+    "Flow IAT Max": 85185,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 60783432,
+    "Flow IAT Mean": 1841922.18181818,
+    "Flow IAT Std": 3897547.44399473,
+    "Flow IAT Max": 10003844,
+    "Flow IAT Min": 12,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1916124,
+    "Flow IAT Mean": 119757.75,
+    "Flow IAT Std": 244045.427072229,
+    "Flow IAT Max": 968744,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387803,
+    "Flow IAT Mean": 9458.6097560976,
+    "Flow IAT Std": 19192.1030164467,
+    "Flow IAT Max": 100855,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 26,
+    "Flow IAT Mean": 26.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 26,
+    "Flow IAT Min": 26,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 118305789,
+    "Flow IAT Mean": 4225206.75,
+    "Flow IAT Std": 15416782.7665877,
+    "Flow IAT Max": 58951883,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 225,
+    "Flow IAT Mean": 225.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 225,
+    "Flow IAT Min": 225,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5966482,
+    "Flow IAT Mean": 1988827.33333333,
+    "Flow IAT Std": 3435033.39640859,
+    "Flow IAT Max": 5955257,
+    "Flow IAT Min": 26,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 477,
+    "Flow IAT Mean": 477.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 477,
+    "Flow IAT Min": 477,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 389610,
+    "Flow IAT Mean": 9502.6829268293,
+    "Flow IAT Std": 24149.3120589791,
+    "Flow IAT Max": 141324,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 20,
+    "Flow IAT Mean": 20.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2892098,
+    "Flow IAT Mean": 180756.125,
+    "Flow IAT Std": 258391.404077064,
+    "Flow IAT Max": 937553,
+    "Flow IAT Min": 102,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 330848,
+    "Flow IAT Mean": 7694.1395348837,
+    "Flow IAT Std": 18395.0564911717,
+    "Flow IAT Max": 88045,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1110,
+    "Flow IAT Mean": 1110.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1110,
+    "Flow IAT Min": 1110,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387990,
+    "Flow IAT Mean": 9463.1707317073,
+    "Flow IAT Std": 24094.2023398809,
+    "Flow IAT Max": 113775,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 993,
+    "Flow IAT Mean": 165.5,
+    "Flow IAT Std": 127.799452268,
+    "Flow IAT Max": 363,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1135026,
+    "Flow IAT Mean": 81073.2857142857,
+    "Flow IAT Std": 251497.716303266,
+    "Flow IAT Max": 953128,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 54607756,
+    "Flow IAT Mean": 54607756.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54607756,
+    "Flow IAT Min": 54607756,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 82,
+    "Flow IAT Mean": 82.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 82,
+    "Flow IAT Min": 82,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2497403,
+    "Flow IAT Mean": 178385.928571429,
+    "Flow IAT Std": 253099.489166571,
+    "Flow IAT Max": 953174,
+    "Flow IAT Min": 91,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 12847,
+    "Flow IAT Mean": 12847.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12847,
+    "Flow IAT Min": 12847,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 16,
+    "Flow IAT Mean": 16.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 16,
+    "Flow IAT Min": 16,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 766,
+    "Flow IAT Mean": 766.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 766,
+    "Flow IAT Min": 766,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 317,
+    "Flow IAT Mean": 317.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 317,
+    "Flow IAT Min": 317,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 326,
+    "Flow IAT Mean": 326.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 326,
+    "Flow IAT Min": 326,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 59722715,
+    "Flow IAT Mean": 59722715.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 59722715,
+    "Flow IAT Min": 59722715,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 59,
+    "Flow IAT Mean": 59.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 59,
+    "Flow IAT Min": 59,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1668733,
+    "Flow IAT Mean": 119195.214285714,
+    "Flow IAT Std": 245554.785019611,
+    "Flow IAT Max": 953082,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 419178,
+    "Flow IAT Mean": 9748.3255813954,
+    "Flow IAT Std": 24284.3322434553,
+    "Flow IAT Max": 112620,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 338923,
+    "Flow IAT Mean": 7881.9302325581,
+    "Flow IAT Std": 18495.8050770275,
+    "Flow IAT Max": 84186,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 10047704,
+    "Flow IAT Mean": 386450.153846154,
+    "Flow IAT Std": 1935004.40353665,
+    "Flow IAT Max": 9873183,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5626839,
+    "Flow IAT Mean": 432833.769230769,
+    "Flow IAT Std": 1483847.02531933,
+    "Flow IAT Max": 5370603,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 324284,
+    "Flow IAT Mean": 7541.488372093,
+    "Flow IAT Std": 19266.8332366816,
+    "Flow IAT Max": 106252,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 15727211,
+    "Flow IAT Mean": 1965901.375,
+    "Flow IAT Std": 3785617.33678266,
+    "Flow IAT Max": 9952967,
+    "Flow IAT Min": 66,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54260491,
+    "Flow IAT Mean": 54260491.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54260491,
+    "Flow IAT Min": 54260491,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 331089,
+    "Flow IAT Mean": 7699.7441860465,
+    "Flow IAT Std": 17261.3386338662,
+    "Flow IAT Max": 76108,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 110135560,
+    "Flow IAT Mean": 3441736.25,
+    "Flow IAT Std": 4804938.89953829,
+    "Flow IAT Max": 10002955,
+    "Flow IAT Min": 906,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6009885,
+    "Flow IAT Mean": 858555.0,
+    "Flow IAT Std": 2245401.03069541,
+    "Flow IAT Max": 5950407,
+    "Flow IAT Min": 48,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 393550,
+    "Flow IAT Mean": 9152.3255813954,
+    "Flow IAT Std": 21264.0481247898,
+    "Flow IAT Max": 96022,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 708,
+    "Flow IAT Mean": 708.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 708,
+    "Flow IAT Min": 708,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 28654,
+    "Flow IAT Mean": 9551.3333333333,
+    "Flow IAT Std": 12536.857115455,
+    "Flow IAT Max": 23849,
+    "Flow IAT Min": 439,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 2.8284271247,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115722056,
+    "Flow IAT Mean": 3990415.72413793,
+    "Flow IAT Std": 4875211.83737092,
+    "Flow IAT Max": 10014486,
+    "Flow IAT Min": 22,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 847,
+    "Flow IAT Mean": 847.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 847,
+    "Flow IAT Min": 847,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 23,
+    "Flow IAT Mean": 23.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 23,
+    "Flow IAT Min": 23,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 418995,
+    "Flow IAT Mean": 10219.3902439024,
+    "Flow IAT Std": 34041.5914983995,
+    "Flow IAT Max": 209332,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 388328,
+    "Flow IAT Mean": 9030.8837209302,
+    "Flow IAT Std": 20083.8282233544,
+    "Flow IAT Max": 97305,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 350666,
+    "Flow IAT Mean": 8155.023255814,
+    "Flow IAT Std": 20847.2891562935,
+    "Flow IAT Max": 107266,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18841,
+    "Flow IAT Mean": 18841.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18841,
+    "Flow IAT Min": 18841,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 379337,
+    "Flow IAT Mean": 8246.4565217391,
+    "Flow IAT Std": 15613.0172565594,
+    "Flow IAT Max": 51305,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 60583,
+    "Flow IAT Mean": 10097.1666666667,
+    "Flow IAT Std": 11499.7465783671,
+    "Flow IAT Max": 23300,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 435,
+    "Flow IAT Mean": 217.5,
+    "Flow IAT Std": 280.7213921311,
+    "Flow IAT Max": 416,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 236289,
+    "Flow IAT Mean": 14768.0625,
+    "Flow IAT Std": 20361.9842237727,
+    "Flow IAT Max": 66829,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 48595,
+    "Flow IAT Mean": 8099.1666666667,
+    "Flow IAT Std": 12202.2682058159,
+    "Flow IAT Max": 23860,
+    "Flow IAT Min": 54,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 8,
+    "Flow IAT Mean": 8.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54765366,
+    "Flow IAT Mean": 54765366.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54765366,
+    "Flow IAT Min": 54765366,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 103,
+    "Flow IAT Mean": 103.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 103,
+    "Flow IAT Min": 103,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 514,
+    "Flow IAT Mean": 514.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 514,
+    "Flow IAT Min": 514,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 397347,
+    "Flow IAT Mean": 9030.6136363636,
+    "Flow IAT Std": 25946.8526452841,
+    "Flow IAT Max": 143605,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19059,
+    "Flow IAT Mean": 19059.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19059,
+    "Flow IAT Min": 19059,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387416,
+    "Flow IAT Mean": 9449.1707317073,
+    "Flow IAT Std": 23089.9510998859,
+    "Flow IAT Max": 128526,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 387,
+    "Flow IAT Mean": 387.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 387,
+    "Flow IAT Min": 387,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115842622,
+    "Flow IAT Mean": 2825429.80487805,
+    "Flow IAT Std": 4480780.8046093,
+    "Flow IAT Max": 10004417,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2475337,
+    "Flow IAT Mean": 145608.058823529,
+    "Flow IAT Std": 230418.499051853,
+    "Flow IAT Max": 953153,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 73,
+    "Flow IAT Mean": 24.3333333333,
+    "Flow IAT Std": 22.5462487641,
+    "Flow IAT Max": 46,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 14125,
+    "Flow IAT Mean": 14125.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 14125,
+    "Flow IAT Min": 14125,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 36377,
+    "Flow IAT Mean": 12125.6666666667,
+    "Flow IAT Std": 20417.7902901693,
+    "Flow IAT Max": 35702,
+    "Flow IAT Min": 278,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 608550,
+    "Flow IAT Mean": 38034.375,
+    "Flow IAT Std": 70391.7847241424,
+    "Flow IAT Max": 259172,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 236870,
+    "Flow IAT Mean": 78956.6666666667,
+    "Flow IAT Std": 136699.804569477,
+    "Flow IAT Max": 236804,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1549,
+    "Flow IAT Mean": 1549.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1549,
+    "Flow IAT Min": 1549,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 405794,
+    "Flow IAT Mean": 9437.0697674419,
+    "Flow IAT Std": 23607.8880183191,
+    "Flow IAT Max": 121821,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 379102,
+    "Flow IAT Mean": 8816.3255813954,
+    "Flow IAT Std": 18926.907852152,
+    "Flow IAT Max": 73854,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3076,
+    "Flow IAT Mean": 3076.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3076,
+    "Flow IAT Min": 3076,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 930093,
+    "Flow IAT Mean": 66435.2142857143,
+    "Flow IAT Std": 178880.245183186,
+    "Flow IAT Max": 680238,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387295,
+    "Flow IAT Mean": 9006.8604651163,
+    "Flow IAT Std": 24334.7111487758,
+    "Flow IAT Max": 138145,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 75261,
+    "Flow IAT Mean": 37630.5,
+    "Flow IAT Std": 53069.0710348316,
+    "Flow IAT Max": 75156,
+    "Flow IAT Min": 105,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2537734,
+    "Flow IAT Mean": 169182.266666667,
+    "Flow IAT Std": 309102.733816414,
+    "Flow IAT Max": 953121,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1115,
+    "Flow IAT Mean": 1115.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1115,
+    "Flow IAT Min": 1115,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 354621,
+    "Flow IAT Mean": 7880.4666666667,
+    "Flow IAT Std": 16325.6289320587,
+    "Flow IAT Max": 58508,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 352773,
+    "Flow IAT Mean": 8204.023255814,
+    "Flow IAT Std": 15238.4455220346,
+    "Flow IAT Max": 58577,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3766,
+    "Flow IAT Mean": 3766.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3766,
+    "Flow IAT Min": 3766,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 63008593,
+    "Flow IAT Mean": 656339.510416667,
+    "Flow IAT Std": 6003935.91065984,
+    "Flow IAT Max": 58783637,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 272,
+    "Flow IAT Mean": 272.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 272,
+    "Flow IAT Min": 272,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 71010,
+    "Flow IAT Mean": 23670.0,
+    "Flow IAT Std": 20621.5649503135,
+    "Flow IAT Max": 37759,
+    "Flow IAT Min": 1,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1686,
+    "Flow IAT Mean": 1686.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1686,
+    "Flow IAT Min": 1686,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 324078,
+    "Flow IAT Mean": 7536.6976744186,
+    "Flow IAT Std": 16442.303842361,
+    "Flow IAT Max": 81047,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 17,
+    "Flow IAT Mean": 17.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 17,
+    "Flow IAT Min": 17,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 424,
+    "Flow IAT Mean": 424.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 424,
+    "Flow IAT Min": 424,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 329425,
+    "Flow IAT Mean": 7661.0465116279,
+    "Flow IAT Std": 20917.0024609208,
+    "Flow IAT Max": 121826,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2864886,
+    "Flow IAT Mean": 204634.714285714,
+    "Flow IAT Std": 262346.179720152,
+    "Flow IAT Max": 953150,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 118467475,
+    "Flow IAT Mean": 3384785.0,
+    "Flow IAT Std": 13817172.5568448,
+    "Flow IAT Max": 58920407,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 337,
+    "Flow IAT Mean": 337.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 337,
+    "Flow IAT Min": 337,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2928275,
+    "Flow IAT Mean": 209162.5,
+    "Flow IAT Std": 264809.800336523,
+    "Flow IAT Max": 953149,
+    "Flow IAT Min": 65,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 856,
+    "Flow IAT Mean": 856.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 856,
+    "Flow IAT Min": 856,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 8153,
+    "Flow IAT Mean": 4076.5,
+    "Flow IAT Std": 5216.3267248132,
+    "Flow IAT Max": 7765,
+    "Flow IAT Min": 388,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387907,
+    "Flow IAT Mean": 9461.1463414634,
+    "Flow IAT Std": 25816.5049963787,
+    "Flow IAT Max": 153640,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 0,
+    "Flow IAT Mean": 0.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 0,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 413605,
+    "Flow IAT Mean": 10087.9268292683,
+    "Flow IAT Std": 30677.7675022077,
+    "Flow IAT Max": 185220,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 391096,
+    "Flow IAT Mean": 9538.9268292683,
+    "Flow IAT Std": 22735.085809592,
+    "Flow IAT Max": 128726,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6724332,
+    "Flow IAT Mean": 395548.941176471,
+    "Flow IAT Std": 911787.417117161,
+    "Flow IAT Max": 3740693,
+    "Flow IAT Min": 62,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 153,
+    "Flow IAT Mean": 153.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 153,
+    "Flow IAT Min": 153,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 43,
+    "Flow IAT Mean": 43.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 43,
+    "Flow IAT Min": 43,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 553,
+    "Flow IAT Mean": 276.5,
+    "Flow IAT Std": 364.1599923111,
+    "Flow IAT Max": 534,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 95071,
+    "Flow IAT Mean": 31690.3333333333,
+    "Flow IAT Std": 27048.5415564931,
+    "Flow IAT Max": 49934,
+    "Flow IAT Min": 614,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 118376724,
+    "Flow IAT Mean": 2276475.46153846,
+    "Flow IAT Std": 4079362.10043068,
+    "Flow IAT Max": 10004161,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 402643,
+    "Flow IAT Mean": 9363.7906976744,
+    "Flow IAT Std": 18579.1139116176,
+    "Flow IAT Max": 81643,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 31035,
+    "Flow IAT Mean": 10345.0,
+    "Flow IAT Std": 14887.4178083373,
+    "Flow IAT Max": 27465,
+    "Flow IAT Min": 438,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 231760,
+    "Flow IAT Mean": 231760.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 231760,
+    "Flow IAT Min": 231760,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 73422,
+    "Flow IAT Mean": 24474.0,
+    "Flow IAT Std": 42314.8885972774,
+    "Flow IAT Max": 73335,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2189510,
+    "Flow IAT Mean": 156393.571428571,
+    "Flow IAT Std": 247893.285673715,
+    "Flow IAT Max": 953313,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 45,
+    "Flow IAT Mean": 45.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 45,
+    "Flow IAT Min": 45,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1131217,
+    "Flow IAT Mean": 80801.2142857143,
+    "Flow IAT Std": 251496.391249588,
+    "Flow IAT Max": 953140,
+    "Flow IAT Min": 58,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 16234459,
+    "Flow IAT Mean": 737929.954545455,
+    "Flow IAT Std": 2424820.31519695,
+    "Flow IAT Max": 10004594,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 116932238,
+    "Flow IAT Mean": 4872176.58333333,
+    "Flow IAT Std": 16390107.6905466,
+    "Flow IAT Max": 58221936,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 353334,
+    "Flow IAT Mean": 8217.0697674419,
+    "Flow IAT Std": 16079.276097771,
+    "Flow IAT Max": 63513,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 185,
+    "Flow IAT Mean": 185.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 185,
+    "Flow IAT Min": 185,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 383119,
+    "Flow IAT Mean": 8909.7441860465,
+    "Flow IAT Std": 17127.2142650409,
+    "Flow IAT Max": 69679,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 375973,
+    "Flow IAT Mean": 9170.0731707317,
+    "Flow IAT Std": 23814.74593124,
+    "Flow IAT Max": 137892,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 480,
+    "Flow IAT Mean": 480.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 480,
+    "Flow IAT Min": 480,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 441,
+    "Flow IAT Mean": 441.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 441,
+    "Flow IAT Min": 441,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 322204,
+    "Flow IAT Mean": 7493.1162790698,
+    "Flow IAT Std": 18664.2123010721,
+    "Flow IAT Max": 100132,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 20,
+    "Flow IAT Mean": 20.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 403846,
+    "Flow IAT Mean": 9391.7674418605,
+    "Flow IAT Std": 23319.461395027,
+    "Flow IAT Max": 100023,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1196784,
+    "Flow IAT Mean": 119678.4,
+    "Flow IAT Std": 152934.138543507,
+    "Flow IAT Max": 297724,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1228273,
+    "Flow IAT Mean": 87733.7857142857,
+    "Flow IAT Std": 249925.623801648,
+    "Flow IAT Max": 953287,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 137,
+    "Flow IAT Mean": 137.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 137,
+    "Flow IAT Min": 137,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 229,
+    "Flow IAT Mean": 114.5,
+    "Flow IAT Std": 129.4005409571,
+    "Flow IAT Max": 206,
+    "Flow IAT Min": 23,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6364190,
+    "Flow IAT Mean": 374364.117647059,
+    "Flow IAT Std": 929314.452407115,
+    "Flow IAT Max": 3848295,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1411,
+    "Flow IAT Mean": 1411.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1411,
+    "Flow IAT Min": 1411,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 607053,
+    "Flow IAT Mean": 60705.3,
+    "Flow IAT Std": 78230.0418779981,
+    "Flow IAT Max": 152109,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 359461,
+    "Flow IAT Mean": 8359.5581395349,
+    "Flow IAT Std": 22463.6098965822,
+    "Flow IAT Max": 96851,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1407212,
+    "Flow IAT Mean": 100515.142857143,
+    "Flow IAT Std": 249539.657015707,
+    "Flow IAT Max": 953131,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2515717,
+    "Flow IAT Mean": 179694.071428571,
+    "Flow IAT Std": 253434.694209365,
+    "Flow IAT Max": 953227,
+    "Flow IAT Min": 89,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1114,
+    "Flow IAT Mean": 185.6666666667,
+    "Flow IAT Std": 157.4543320035,
+    "Flow IAT Max": 441,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 150622,
+    "Flow IAT Mean": 150622.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 150622,
+    "Flow IAT Min": 150622,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 896,
+    "Flow IAT Mean": 896.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 896,
+    "Flow IAT Min": 896,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 20,
+    "Flow IAT Mean": 20.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 297,
+    "Flow IAT Mean": 297.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 297,
+    "Flow IAT Min": 297,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 71155,
+    "Flow IAT Mean": 71155.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 71155,
+    "Flow IAT Min": 71155,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 64164,
+    "Flow IAT Mean": 21388.0,
+    "Flow IAT Std": 23026.4757833239,
+    "Flow IAT Max": 46034,
+    "Flow IAT Min": 425,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 389,
+    "Flow IAT Mean": 389.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 389,
+    "Flow IAT Min": 389,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 375158,
+    "Flow IAT Mean": 8932.3333333333,
+    "Flow IAT Std": 18520.715968443,
+    "Flow IAT Max": 81620,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 387332,
+    "Flow IAT Mean": 9447.1219512195,
+    "Flow IAT Std": 23373.5343328679,
+    "Flow IAT Max": 105072,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1021429,
+    "Flow IAT Mean": 92857.1818181818,
+    "Flow IAT Std": 105823.632976588,
+    "Flow IAT Max": 205214,
+    "Flow IAT Min": 37,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 264,
+    "Flow IAT Mean": 264.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 264,
+    "Flow IAT Min": 264,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2028387,
+    "Flow IAT Mean": 112688.166666667,
+    "Flow IAT Std": 218395.821129286,
+    "Flow IAT Max": 937465,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1067,
+    "Flow IAT Mean": 1067.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1067,
+    "Flow IAT Min": 1067,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 393092,
+    "Flow IAT Mean": 9141.6744186047,
+    "Flow IAT Std": 13797.4873000933,
+    "Flow IAT Max": 42320,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1074,
+    "Flow IAT Mean": 1074.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1074,
+    "Flow IAT Min": 1074,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 385864,
+    "Flow IAT Mean": 8769.6363636364,
+    "Flow IAT Std": 14946.3542526627,
+    "Flow IAT Max": 42775,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 355185,
+    "Flow IAT Mean": 8663.0487804878,
+    "Flow IAT Std": 20494.5120482914,
+    "Flow IAT Max": 89579,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1666708,
+    "Flow IAT Mean": 119050.571428571,
+    "Flow IAT Std": 245670.799381459,
+    "Flow IAT Max": 953171,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 378533,
+    "Flow IAT Mean": 8803.0930232558,
+    "Flow IAT Std": 23729.6981406904,
+    "Flow IAT Max": 122193,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 141,
+    "Flow IAT Mean": 141.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 141,
+    "Flow IAT Min": 141,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 114396646,
+    "Flow IAT Mean": 1845107.19354839,
+    "Flow IAT Std": 3795600.64868154,
+    "Flow IAT Max": 10012924,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1220030,
+    "Flow IAT Mean": 87145.0,
+    "Flow IAT Std": 250013.683343686,
+    "Flow IAT Max": 953133,
+    "Flow IAT Min": 67,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115855224,
+    "Flow IAT Mean": 2694307.53488372,
+    "Flow IAT Std": 4397363.62921915,
+    "Flow IAT Max": 10016249,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 851,
+    "Flow IAT Mean": 851.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 851,
+    "Flow IAT Min": 851,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2222333,
+    "Flow IAT Mean": 158738.071428571,
+    "Flow IAT Std": 248094.165168564,
+    "Flow IAT Max": 953169,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 69847980,
+    "Flow IAT Mean": 54825.7299843014,
+    "Flow IAT Std": 1640384.36320163,
+    "Flow IAT Max": 58334208,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 112639547,
+    "Flow IAT Mean": 56319773.5,
+    "Flow IAT Std": 20.5060966544,
+    "Flow IAT Max": 56319788,
+    "Flow IAT Min": 56319759,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1454,
+    "Flow IAT Mean": 727.0,
+    "Flow IAT Std": 1005.5058428473,
+    "Flow IAT Max": 1438,
+    "Flow IAT Min": 16,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 283167,
+    "Flow IAT Mean": 6585.2790697675,
+    "Flow IAT Std": 15001.5828884275,
+    "Flow IAT Max": 52626,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6497457,
+    "Flow IAT Mean": 928208.142857143,
+    "Flow IAT Std": 2428566.38848673,
+    "Flow IAT Max": 6435437,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 353118,
+    "Flow IAT Mean": 8212.0465116279,
+    "Flow IAT Std": 14527.2115142149,
+    "Flow IAT Max": 54607,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 37674,
+    "Flow IAT Mean": 37674.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 37674,
+    "Flow IAT Min": 37674,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 118507575,
+    "Flow IAT Mean": 1975126.25,
+    "Flow IAT Std": 10571327.3540072,
+    "Flow IAT Max": 58814830,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1262,
+    "Flow IAT Mean": 1262.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1262,
+    "Flow IAT Min": 1262,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 392426,
+    "Flow IAT Mean": 9126.1860465116,
+    "Flow IAT Std": 21688.3324286583,
+    "Flow IAT Max": 117367,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 369316,
+    "Flow IAT Mean": 8588.7441860465,
+    "Flow IAT Std": 20833.0079670894,
+    "Flow IAT Max": 119276,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1318,
+    "Flow IAT Mean": 1318.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1318,
+    "Flow IAT Min": 1318,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 778,
+    "Flow IAT Mean": 389.0,
+    "Flow IAT Std": 524.6732316404,
+    "Flow IAT Max": 760,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 333,
+    "Flow IAT Mean": 333.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 333,
+    "Flow IAT Min": 333,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 383,
+    "Flow IAT Mean": 383.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 383,
+    "Flow IAT Min": 383,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2117841,
+    "Flow IAT Mean": 117657.833333333,
+    "Flow IAT Std": 224471.910282582,
+    "Flow IAT Max": 953129,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 173576,
+    "Flow IAT Mean": 57858.6666666667,
+    "Flow IAT Std": 70967.9399470869,
+    "Flow IAT Max": 137045,
+    "Flow IAT Min": 1,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 42,
+    "Flow IAT Mean": 42.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 42,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 285,
+    "Flow IAT Mean": 142.5,
+    "Flow IAT Std": 171.8269478283,
+    "Flow IAT Max": 264,
+    "Flow IAT Min": 21,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 332413,
+    "Flow IAT Mean": 7730.5348837209,
+    "Flow IAT Std": 20518.7972662802,
+    "Flow IAT Max": 100956,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 367265,
+    "Flow IAT Mean": 8346.9318181818,
+    "Flow IAT Std": 18536.6847960416,
+    "Flow IAT Max": 94625,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 518134,
+    "Flow IAT Mean": 51813.4,
+    "Flow IAT Std": 66740.1357109132,
+    "Flow IAT Max": 130706,
+    "Flow IAT Min": 79,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2118459,
+    "Flow IAT Mean": 151318.5,
+    "Flow IAT Std": 247211.96595502,
+    "Flow IAT Max": 953110,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 230171,
+    "Flow IAT Mean": 16440.7857142857,
+    "Flow IAT Std": 34394.5776208951,
+    "Flow IAT Max": 103060,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 300501,
+    "Flow IAT Mean": 6988.3953488372,
+    "Flow IAT Std": 14373.4888367431,
+    "Flow IAT Max": 62631,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1054,
+    "Flow IAT Mean": 1054.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1054,
+    "Flow IAT Min": 1054,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 12,
+    "Flow IAT Mean": 12.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12,
+    "Flow IAT Min": 12,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 88472945,
+    "Flow IAT Mean": 88472945.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 88472945,
+    "Flow IAT Min": 88472945,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 393572,
+    "Flow IAT Mean": 8944.8181818182,
+    "Flow IAT Std": 17946.1749247936,
+    "Flow IAT Max": 83099,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 393131,
+    "Flow IAT Mean": 9142.5813953488,
+    "Flow IAT Std": 20869.1465876492,
+    "Flow IAT Max": 117139,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 418074,
+    "Flow IAT Mean": 9722.6511627907,
+    "Flow IAT Std": 24908.1370132464,
+    "Flow IAT Max": 110676,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1142086,
+    "Flow IAT Mean": 81577.5714285714,
+    "Flow IAT Std": 251364.813017536,
+    "Flow IAT Max": 953316,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 346875,
+    "Flow IAT Mean": 8066.8604651163,
+    "Flow IAT Std": 20560.3583783633,
+    "Flow IAT Max": 103736,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 263,
+    "Flow IAT Mean": 263.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 263,
+    "Flow IAT Min": 263,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 70200938,
+    "Flow IAT Mean": 23400312.6666667,
+    "Flow IAT Std": 40529337.0695373,
+    "Flow IAT Max": 70199560,
+    "Flow IAT Min": 422,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 376803,
+    "Flow IAT Mean": 8971.5,
+    "Flow IAT Std": 19075.6436905106,
+    "Flow IAT Max": 93826,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 427,
+    "Flow IAT Mean": 427.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 427,
+    "Flow IAT Min": 427,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 332494,
+    "Flow IAT Mean": 7732.4186046512,
+    "Flow IAT Std": 17132.0596310412,
+    "Flow IAT Max": 74150,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 376049,
+    "Flow IAT Mean": 8745.3255813954,
+    "Flow IAT Std": 19946.7864862882,
+    "Flow IAT Max": 98599,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5076,
+    "Flow IAT Mean": 5076.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5076,
+    "Flow IAT Min": 5076,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 49787,
+    "Flow IAT Mean": 16595.6666666667,
+    "Flow IAT Std": 17398.6618259375,
+    "Flow IAT Max": 34729,
+    "Flow IAT Min": 39,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 885,
+    "Flow IAT Mean": 147.5,
+    "Flow IAT Std": 117.3128296479,
+    "Flow IAT Max": 336,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 352735,
+    "Flow IAT Mean": 8203.1395348837,
+    "Flow IAT Std": 15806.9897206168,
+    "Flow IAT Max": 72390,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 728,
+    "Flow IAT Mean": 728.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 728,
+    "Flow IAT Min": 728,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1216908,
+    "Flow IAT Mean": 86922.0,
+    "Flow IAT Std": 250008.953476286,
+    "Flow IAT Max": 953153,
+    "Flow IAT Min": 66,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54265398,
+    "Flow IAT Mean": 54265398.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54265398,
+    "Flow IAT Min": 54265398,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 191269,
+    "Flow IAT Mean": 191269.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 191269,
+    "Flow IAT Min": 191269,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 12889,
+    "Flow IAT Mean": 12889.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12889,
+    "Flow IAT Min": 12889,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 102979135,
+    "Flow IAT Mean": 6436195.9375,
+    "Flow IAT Std": 24827042.896065,
+    "Flow IAT Max": 99490314,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 373116,
+    "Flow IAT Mean": 8479.9090909091,
+    "Flow IAT Std": 14781.5673789213,
+    "Flow IAT Max": 44230,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 258,
+    "Flow IAT Mean": 129.0,
+    "Flow IAT Std": 149.9066376115,
+    "Flow IAT Max": 235,
+    "Flow IAT Min": 23,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1543,
+    "Flow IAT Mean": 1543.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1543,
+    "Flow IAT Min": 1543,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 116928172,
+    "Flow IAT Mean": 3077057.15789474,
+    "Flow IAT Std": 4584803.58438459,
+    "Flow IAT Max": 10188518,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 3467916,
+    "Flow IAT Mean": 203995.058823529,
+    "Flow IAT Std": 265720.648370255,
+    "Flow IAT Max": 953086,
+    "Flow IAT Min": 91,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 431702,
+    "Flow IAT Mean": 25394.2352941176,
+    "Flow IAT Std": 34084.16887011,
+    "Flow IAT Max": 103517,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3004710,
+    "Flow IAT Mean": 214622.142857143,
+    "Flow IAT Std": 266640.076944084,
+    "Flow IAT Max": 953098,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 30937,
+    "Flow IAT Mean": 10312.3333333333,
+    "Flow IAT Std": 17187.0592113175,
+    "Flow IAT Max": 30158,
+    "Flow IAT Min": 305,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 84,
+    "Flow IAT Mean": 84.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 84,
+    "Flow IAT Min": 84,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 86,
+    "Flow IAT Mean": 86.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 86,
+    "Flow IAT Min": 86,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 25,
+    "Flow IAT Mean": 25.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 25,
+    "Flow IAT Min": 25,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 0.5,
+    "Flow IAT Std": 0.7071067812,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 31366,
+    "Flow IAT Mean": 10455.3333333333,
+    "Flow IAT Std": 16638.7290780676,
+    "Flow IAT Max": 29664,
+    "Flow IAT Min": 508,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 20155,
+    "Flow IAT Mean": 20155.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20155,
+    "Flow IAT Min": 20155,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1247716,
+    "Flow IAT Mean": 89122.5714285714,
+    "Flow IAT Std": 249754.838905218,
+    "Flow IAT Max": 953153,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5548018,
+    "Flow IAT Mean": 792574.0,
+    "Flow IAT Std": 2069700.20421268,
+    "Flow IAT Max": 5485927,
+    "Flow IAT Min": 38,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 21,
+    "Flow IAT Mean": 21.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 21,
+    "Flow IAT Min": 21,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 364,
+    "Flow IAT Mean": 364.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 364,
+    "Flow IAT Min": 364,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 157394,
+    "Flow IAT Mean": 52464.6666666667,
+    "Flow IAT Std": 89787.9833960722,
+    "Flow IAT Max": 156141,
+    "Flow IAT Min": 83,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 17123402,
+    "Flow IAT Mean": 901231.684210526,
+    "Flow IAT Std": 1630389.61892921,
+    "Flow IAT Max": 6572451,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 395225,
+    "Flow IAT Mean": 9639.6341463415,
+    "Flow IAT Std": 25203.7816128415,
+    "Flow IAT Max": 138005,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 23604761,
+    "Flow IAT Mean": 1686054.35714286,
+    "Flow IAT Std": 3310157.93229421,
+    "Flow IAT Max": 11687270,
+    "Flow IAT Min": 60,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 118822887,
+    "Flow IAT Mean": 2424956.87755102,
+    "Flow IAT Std": 4296111.39987859,
+    "Flow IAT Max": 10019618,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 372504,
+    "Flow IAT Mean": 9085.4634146342,
+    "Flow IAT Std": 21550.7084362644,
+    "Flow IAT Max": 121508,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 744,
+    "Flow IAT Mean": 124.0,
+    "Flow IAT Std": 84.7561207229,
+    "Flow IAT Max": 227,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 53855261,
+    "Flow IAT Mean": 53855261.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 53855261,
+    "Flow IAT Min": 53855261,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2150058,
+    "Flow IAT Mean": 134378.625,
+    "Flow IAT Std": 240040.854292729,
+    "Flow IAT Max": 953134,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1660997,
+    "Flow IAT Mean": 118642.642857143,
+    "Flow IAT Std": 245631.337484453,
+    "Flow IAT Max": 953130,
+    "Flow IAT Min": 89,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 751,
+    "Flow IAT Mean": 751.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 751,
+    "Flow IAT Min": 751,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 116738440,
+    "Flow IAT Mean": 4323645.92592593,
+    "Flow IAT Std": 15544213.7661754,
+    "Flow IAT Max": 58475440,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1909539,
+    "Flow IAT Mean": 136395.642857143,
+    "Flow IAT Std": 246197.383088825,
+    "Flow IAT Max": 953314,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 382,
+    "Flow IAT Mean": 382.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 382,
+    "Flow IAT Min": 382,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 99,
+    "Flow IAT Mean": 99.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 99,
+    "Flow IAT Min": 99,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6244060,
+    "Flow IAT Mean": 892008.571428571,
+    "Flow IAT Std": 2332808.36036774,
+    "Flow IAT Max": 6182070,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5891716,
+    "Flow IAT Mean": 346571.529411765,
+    "Flow IAT Std": 728869.711232066,
+    "Flow IAT Max": 3015521,
+    "Flow IAT Min": 85,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2016063,
+    "Flow IAT Mean": 126003.9375,
+    "Flow IAT Std": 132823.38233683,
+    "Flow IAT Max": 270783,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 92212,
+    "Flow IAT Mean": 92212.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 92212,
+    "Flow IAT Min": 92212,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 16,
+    "Flow IAT Mean": 16.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 16,
+    "Flow IAT Min": 16,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 46,
+    "Flow IAT Mean": 46.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 46,
+    "Flow IAT Min": 46,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 768,
+    "Flow IAT Mean": 128.0,
+    "Flow IAT Std": 81.5033741633,
+    "Flow IAT Max": 254,
+    "Flow IAT Min": 26,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 313189,
+    "Flow IAT Mean": 7283.4651162791,
+    "Flow IAT Std": 13996.8290666627,
+    "Flow IAT Max": 46680,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 407642,
+    "Flow IAT Mean": 9942.4878048781,
+    "Flow IAT Std": 27536.9863194231,
+    "Flow IAT Max": 160847,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 393592,
+    "Flow IAT Mean": 9153.3023255814,
+    "Flow IAT Std": 23597.5787706068,
+    "Flow IAT Max": 106398,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1055,
+    "Flow IAT Mean": 1055.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1055,
+    "Flow IAT Min": 1055,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 118541742,
+    "Flow IAT Mean": 3823927.16129032,
+    "Flow IAT Std": 14570565.3589967,
+    "Flow IAT Max": 58733481,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 403286,
+    "Flow IAT Mean": 9836.243902439,
+    "Flow IAT Std": 30189.4480388268,
+    "Flow IAT Max": 184163,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 308873,
+    "Flow IAT Mean": 308873.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 308873,
+    "Flow IAT Min": 308873,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 490,
+    "Flow IAT Mean": 490.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 490,
+    "Flow IAT Min": 490,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6176288,
+    "Flow IAT Mean": 882326.857142857,
+    "Flow IAT Std": 2307124.93285051,
+    "Flow IAT Max": 6114142,
+    "Flow IAT Min": 50,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 80,
+    "Flow IAT Mean": 80.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 80,
+    "Flow IAT Min": 80,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 20287,
+    "Flow IAT Mean": 20287.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20287,
+    "Flow IAT Min": 20287,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 72741481,
+    "Flow IAT Mean": 4546342.5625,
+    "Flow IAT Std": 18070585.8955631,
+    "Flow IAT Max": 72310862,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 363388,
+    "Flow IAT Mean": 8450.8837209302,
+    "Flow IAT Std": 23585.5864774688,
+    "Flow IAT Max": 140905,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54712876,
+    "Flow IAT Mean": 54712876.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54712876,
+    "Flow IAT Min": 54712876,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 22909909,
+    "Flow IAT Mean": 1041359.5,
+    "Flow IAT Std": 4863137.85075995,
+    "Flow IAT Max": 22814619,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 329324,
+    "Flow IAT Mean": 20582.75,
+    "Flow IAT Std": 38075.9796293324,
+    "Flow IAT Max": 93802,
+    "Flow IAT Min": 10,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 13,
+    "Flow IAT Mean": 13.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 13,
+    "Flow IAT Min": 13,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 25,
+    "Flow IAT Mean": 25.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 25,
+    "Flow IAT Min": 25,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 378929,
+    "Flow IAT Mean": 9022.1190476191,
+    "Flow IAT Std": 21108.8428692376,
+    "Flow IAT Max": 113896,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 115208676,
+    "Flow IAT Mean": 5009072.86956522,
+    "Flow IAT Std": 7512.1990443687,
+    "Flow IAT Max": 5020602,
+    "Flow IAT Min": 4999133,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2705139,
+    "Flow IAT Mean": 169071.1875,
+    "Flow IAT Std": 245416.273518341,
+    "Flow IAT Max": 953136,
+    "Flow IAT Min": 127,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 546003,
+    "Flow IAT Mean": 36400.2,
+    "Flow IAT Std": 63123.8971572121,
+    "Flow IAT Max": 217763,
+    "Flow IAT Min": 10,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2388,
+    "Flow IAT Mean": 2388.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2388,
+    "Flow IAT Min": 2388,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 780,
+    "Flow IAT Mean": 130.0,
+    "Flow IAT Std": 92.2127973765,
+    "Flow IAT Max": 253,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 227,
+    "Flow IAT Mean": 113.5,
+    "Flow IAT Std": 160.5132393293,
+    "Flow IAT Max": 227,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 38,
+    "Flow IAT Mean": 38.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 38,
+    "Flow IAT Min": 38,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 361114,
+    "Flow IAT Mean": 8807.6585365854,
+    "Flow IAT Std": 20080.246175794,
+    "Flow IAT Max": 111554,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 198904,
+    "Flow IAT Mean": 14207.4285714286,
+    "Flow IAT Std": 31940.0463698769,
+    "Flow IAT Max": 120666,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 39,
+    "Flow IAT Mean": 39.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 39,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1197972,
+    "Flow IAT Mean": 108906.545454545,
+    "Flow IAT Std": 150964.028740203,
+    "Flow IAT Max": 299533,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 400585,
+    "Flow IAT Mean": 9770.3658536585,
+    "Flow IAT Std": 27946.599852,
+    "Flow IAT Max": 170191,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 34846,
+    "Flow IAT Mean": 11615.3333333333,
+    "Flow IAT Std": 12759.9986807732,
+    "Flow IAT Max": 25491,
+    "Flow IAT Min": 386,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2975517,
+    "Flow IAT Mean": 991839.0,
+    "Flow IAT Std": 1717315.38532938,
+    "Flow IAT Max": 2974824,
+    "Flow IAT Min": 342,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 119662947,
+    "Flow IAT Mean": 1930047.53225806,
+    "Flow IAT Std": 10395928.4535083,
+    "Flow IAT Max": 58646447,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2581,
+    "Flow IAT Mean": 2581.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2581,
+    "Flow IAT Min": 2581,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 117763829,
+    "Flow IAT Mean": 3798833.19354839,
+    "Flow IAT Std": 14607756.6099044,
+    "Flow IAT Max": 58890069,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1107,
+    "Flow IAT Mean": 1107.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1107,
+    "Flow IAT Min": 1107,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 680,
+    "Flow IAT Mean": 113.3333333333,
+    "Flow IAT Std": 65.573368578,
+    "Flow IAT Max": 210,
+    "Flow IAT Min": 30,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 389276,
+    "Flow IAT Mean": 9268.4761904762,
+    "Flow IAT Std": 26497.1447253658,
+    "Flow IAT Max": 131069,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 127298,
+    "Flow IAT Mean": 42432.6666666667,
+    "Flow IAT Std": 73427.9944185685,
+    "Flow IAT Max": 127220,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 357082,
+    "Flow IAT Mean": 8501.9523809524,
+    "Flow IAT Std": 22096.8404119865,
+    "Flow IAT Max": 124579,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 12633,
+    "Flow IAT Mean": 12633.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12633,
+    "Flow IAT Min": 12633,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 352406,
+    "Flow IAT Mean": 8195.488372093,
+    "Flow IAT Std": 19207.2108735633,
+    "Flow IAT Max": 98836,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 333,
+    "Flow IAT Mean": 333.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 333,
+    "Flow IAT Min": 333,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 364784,
+    "Flow IAT Mean": 8685.3333333333,
+    "Flow IAT Std": 26686.7619010667,
+    "Flow IAT Max": 150117,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 28,
+    "Flow IAT Mean": 28.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 28,
+    "Flow IAT Min": 28,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 350369,
+    "Flow IAT Mean": 8148.1162790698,
+    "Flow IAT Std": 17414.796144999,
+    "Flow IAT Max": 63664,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 367214,
+    "Flow IAT Mean": 8539.8604651163,
+    "Flow IAT Std": 19092.1535510838,
+    "Flow IAT Max": 73395,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 308,
+    "Flow IAT Mean": 308.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 308,
+    "Flow IAT Min": 308,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115383958,
+    "Flow IAT Mean": 3978757.17241379,
+    "Flow IAT Std": 4839275.36695638,
+    "Flow IAT Max": 10015411,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1662961,
+    "Flow IAT Mean": 118782.928571429,
+    "Flow IAT Std": 241419.284840062,
+    "Flow IAT Max": 937835,
+    "Flow IAT Min": 73,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 390075,
+    "Flow IAT Mean": 9287.5,
+    "Flow IAT Std": 17140.6619777821,
+    "Flow IAT Max": 67036,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5794494,
+    "Flow IAT Mean": 827784.857142857,
+    "Flow IAT Std": 2164015.71866075,
+    "Flow IAT Max": 5735061,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 384734,
+    "Flow IAT Mean": 8947.3023255814,
+    "Flow IAT Std": 16542.3926157628,
+    "Flow IAT Max": 52687,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 30,
+    "Flow IAT Mean": 30.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 30,
+    "Flow IAT Min": 30,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115468972,
+    "Flow IAT Mean": 3981688.68965517,
+    "Flow IAT Std": 4847423.55266436,
+    "Flow IAT Max": 10029118,
+    "Flow IAT Min": 24,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 384111,
+    "Flow IAT Mean": 8932.8139534884,
+    "Flow IAT Std": 20369.8830305637,
+    "Flow IAT Max": 112194,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 46867,
+    "Flow IAT Mean": 7811.1666666667,
+    "Flow IAT Std": 11893.7750679365,
+    "Flow IAT Max": 23179,
+    "Flow IAT Min": 22,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 573,
+    "Flow IAT Mean": 286.5,
+    "Flow IAT Std": 379.7163414972,
+    "Flow IAT Max": 555,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 105939,
+    "Flow IAT Mean": 35313.0,
+    "Flow IAT Std": 50407.4347294127,
+    "Flow IAT Max": 93047,
+    "Flow IAT Min": 43,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 8,
+    "Flow IAT Mean": 8.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5480654,
+    "Flow IAT Mean": 304480.777777778,
+    "Flow IAT Std": 693159.451068762,
+    "Flow IAT Max": 2912893,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 403743,
+    "Flow IAT Mean": 9389.3720930233,
+    "Flow IAT Std": 27334.6162689827,
+    "Flow IAT Max": 159090,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1318113,
+    "Flow IAT Mean": 94150.9285714286,
+    "Flow IAT Std": 257796.558484358,
+    "Flow IAT Max": 985750,
+    "Flow IAT Min": 53,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 307029,
+    "Flow IAT Mean": 7140.2093023256,
+    "Flow IAT Std": 18761.1730932824,
+    "Flow IAT Max": 104909,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 384096,
+    "Flow IAT Mean": 8932.4651162791,
+    "Flow IAT Std": 27099.1072734253,
+    "Flow IAT Max": 153344,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5876872,
+    "Flow IAT Mean": 452067.076923077,
+    "Flow IAT Std": 1586250.50719285,
+    "Flow IAT Max": 5731001,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 381431,
+    "Flow IAT Mean": 9303.1951219512,
+    "Flow IAT Std": 33984.0909347444,
+    "Flow IAT Max": 213353,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 130960,
+    "Flow IAT Mean": 43653.3333333333,
+    "Flow IAT Std": 65843.455425223,
+    "Flow IAT Max": 119393,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 379378,
+    "Flow IAT Mean": 8822.7441860465,
+    "Flow IAT Std": 20639.882856687,
+    "Flow IAT Max": 92518,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 8675,
+    "Flow IAT Mean": 8675.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8675,
+    "Flow IAT Min": 8675,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3354030,
+    "Flow IAT Mean": 209626.875,
+    "Flow IAT Std": 477309.411966267,
+    "Flow IAT Max": 1767241,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1076,
+    "Flow IAT Mean": 179.3333333333,
+    "Flow IAT Std": 160.6669432916,
+    "Flow IAT Max": 460,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 63,
+    "Flow IAT Mean": 63.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 63,
+    "Flow IAT Min": 63,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 17,
+    "Flow IAT Mean": 17.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 17,
+    "Flow IAT Min": 17,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 118072373,
+    "Flow IAT Mean": 3279788.13888889,
+    "Flow IAT Std": 13581181.148259,
+    "Flow IAT Max": 58905080,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 389509,
+    "Flow IAT Mean": 9058.3488372093,
+    "Flow IAT Std": 25342.0194490567,
+    "Flow IAT Max": 143766,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 97187505,
+    "Flow IAT Mean": 13883929.2857143,
+    "Flow IAT Std": 36678996.3545849,
+    "Flow IAT Max": 97064059,
+    "Flow IAT Min": 49,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 64,
+    "Flow IAT Mean": 21.3333333333,
+    "Flow IAT Std": 7.7674534652,
+    "Flow IAT Max": 30,
+    "Flow IAT Min": 15,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 842,
+    "Flow IAT Mean": 140.3333333333,
+    "Flow IAT Std": 96.4461853402,
+    "Flow IAT Max": 260,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1458763,
+    "Flow IAT Mean": 104197.357142857,
+    "Flow IAT Std": 251433.274250341,
+    "Flow IAT Max": 969011,
+    "Flow IAT Min": 52,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1237,
+    "Flow IAT Mean": 618.5,
+    "Flow IAT Std": 852.0636713298,
+    "Flow IAT Max": 1221,
+    "Flow IAT Min": 16,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115,
+    "Flow IAT Mean": 115.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 115,
+    "Flow IAT Min": 115,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 74,
+    "Flow IAT Mean": 74.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 74,
+    "Flow IAT Min": 74,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 281204,
+    "Flow IAT Mean": 6695.3333333333,
+    "Flow IAT Std": 13080.0162390193,
+    "Flow IAT Max": 41509,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54472503,
+    "Flow IAT Mean": 54472503.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54472503,
+    "Flow IAT Min": 54472503,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 441,
+    "Flow IAT Mean": 441.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 441,
+    "Flow IAT Min": 441,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 55,
+    "Flow IAT Mean": 55.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 55,
+    "Flow IAT Min": 55,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 905,
+    "Flow IAT Mean": 150.8333333333,
+    "Flow IAT Std": 104.2082850193,
+    "Flow IAT Max": 280,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 113869356,
+    "Flow IAT Mean": 22773871.2,
+    "Flow IAT Std": 31184296.7984427,
+    "Flow IAT Max": 56965278,
+    "Flow IAT Min": 85,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 136282,
+    "Flow IAT Mean": 45427.3333333333,
+    "Flow IAT Std": 78129.4511713306,
+    "Flow IAT Max": 135643,
+    "Flow IAT Min": 72,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 281,
+    "Flow IAT Mean": 281.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 281,
+    "Flow IAT Min": 281,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 39,
+    "Flow IAT Mean": 39.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 39,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7145354,
+    "Flow IAT Mean": 420314.941176471,
+    "Flow IAT Std": 752962.215100007,
+    "Flow IAT Max": 2984382,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1125003,
+    "Flow IAT Mean": 102273.0,
+    "Flow IAT Std": 116887.510992407,
+    "Flow IAT Max": 225895,
+    "Flow IAT Min": 57,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 408692,
+    "Flow IAT Mean": 9504.4651162791,
+    "Flow IAT Std": 26524.3206235413,
+    "Flow IAT Max": 142012,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2707681,
+    "Flow IAT Mean": 180512.066666667,
+    "Flow IAT Std": 271045.31877726,
+    "Flow IAT Max": 953094,
+    "Flow IAT Min": 93,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 291,
+    "Flow IAT Mean": 291.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 291,
+    "Flow IAT Min": 291,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 396207,
+    "Flow IAT Mean": 9214.1162790698,
+    "Flow IAT Std": 22902.8792951883,
+    "Flow IAT Max": 118811,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 317570,
+    "Flow IAT Mean": 7385.3488372093,
+    "Flow IAT Std": 22961.2158939329,
+    "Flow IAT Max": 137062,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 47794,
+    "Flow IAT Mean": 15931.3333333333,
+    "Flow IAT Std": 24268.0916088046,
+    "Flow IAT Max": 43865,
+    "Flow IAT Min": 35,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 75857,
+    "Flow IAT Mean": 5057.1333333333,
+    "Flow IAT Std": 8922.5741150239,
+    "Flow IAT Max": 22541,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 11848,
+    "Flow IAT Mean": 11848.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 11848,
+    "Flow IAT Min": 11848,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 380,
+    "Flow IAT Mean": 380.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 380,
+    "Flow IAT Min": 380,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 770,
+    "Flow IAT Mean": 770.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 770,
+    "Flow IAT Min": 770,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1655421,
+    "Flow IAT Mean": 97377.7058823529,
+    "Flow IAT Std": 226168.525869197,
+    "Flow IAT Max": 953160,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 18250,
+    "Flow IAT Mean": 18250.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18250,
+    "Flow IAT Min": 18250,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 400663,
+    "Flow IAT Mean": 9772.2682926829,
+    "Flow IAT Std": 22018.8297361876,
+    "Flow IAT Max": 108328,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7976837,
+    "Flow IAT Mean": 569774.071428571,
+    "Flow IAT Std": 1704683.72736043,
+    "Flow IAT Max": 6419557,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1463,
+    "Flow IAT Mean": 731.5,
+    "Flow IAT Std": 1007.6271631908,
+    "Flow IAT Max": 1444,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 387924,
+    "Flow IAT Mean": 9021.488372093,
+    "Flow IAT Std": 20462.5584426219,
+    "Flow IAT Max": 102840,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 530,
+    "Flow IAT Mean": 530.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 530,
+    "Flow IAT Min": 530,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 391719,
+    "Flow IAT Mean": 9109.7441860465,
+    "Flow IAT Std": 25482.5245984222,
+    "Flow IAT Max": 146299,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 500035,
+    "Flow IAT Mean": 45457.7272727273,
+    "Flow IAT Std": 51599.5113311956,
+    "Flow IAT Max": 100052,
+    "Flow IAT Min": 39,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 426,
+    "Flow IAT Mean": 426.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 426,
+    "Flow IAT Min": 426,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 110,
+    "Flow IAT Mean": 36.6666666667,
+    "Flow IAT Std": 31.785741038,
+    "Flow IAT Max": 62,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5627114,
+    "Flow IAT Mean": 1875704.66666667,
+    "Flow IAT Std": 3142768.94286302,
+    "Flow IAT Max": 5503967,
+    "Flow IAT Min": 84,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 398419,
+    "Flow IAT Mean": 9265.5581395349,
+    "Flow IAT Std": 23859.5515288375,
+    "Flow IAT Max": 112157,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 177,
+    "Flow IAT Mean": 177.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 177,
+    "Flow IAT Min": 177,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 939,
+    "Flow IAT Mean": 156.5,
+    "Flow IAT Std": 96.8519488704,
+    "Flow IAT Max": 269,
+    "Flow IAT Min": 28,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 329,
+    "Flow IAT Mean": 329.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 329,
+    "Flow IAT Min": 329,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 124,
+    "Flow IAT Mean": 41.3333333333,
+    "Flow IAT Std": 37.0045042303,
+    "Flow IAT Max": 84,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 54264526,
+    "Flow IAT Mean": 54264526.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54264526,
+    "Flow IAT Min": 54264526,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5347375,
+    "Flow IAT Mean": 334210.9375,
+    "Flow IAT Std": 622488.874479372,
+    "Flow IAT Max": 2461651,
+    "Flow IAT Min": 76,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 77689,
+    "Flow IAT Mean": 25896.3333333333,
+    "Flow IAT Std": 22565.6921970795,
+    "Flow IAT Max": 41578,
+    "Flow IAT Min": 34,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1016,
+    "Flow IAT Mean": 1016.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1016,
+    "Flow IAT Min": 1016,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1047,
+    "Flow IAT Mean": 1047.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1047,
+    "Flow IAT Min": 1047,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1174821,
+    "Flow IAT Mean": 117482.1,
+    "Flow IAT Std": 152268.864431344,
+    "Flow IAT Max": 325252,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 53,
+    "Flow IAT Mean": 53.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 53,
+    "Flow IAT Min": 53,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 337390,
+    "Flow IAT Mean": 7846.2790697674,
+    "Flow IAT Std": 17409.6638548627,
+    "Flow IAT Max": 71941,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 53988473,
+    "Flow IAT Mean": 53988473.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 53988473,
+    "Flow IAT Min": 53988473,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1731,
+    "Flow IAT Mean": 1731.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1731,
+    "Flow IAT Min": 1731,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 91735,
+    "Flow IAT Mean": 6115.6666666667,
+    "Flow IAT Std": 9331.4894513659,
+    "Flow IAT Max": 22948,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 47620,
+    "Flow IAT Mean": 3174.6666666667,
+    "Flow IAT Std": 4446.7398276983,
+    "Flow IAT Max": 12743,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 382267,
+    "Flow IAT Mean": 8494.8222222222,
+    "Flow IAT Std": 16951.8221429933,
+    "Flow IAT Max": 81260,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 33803,
+    "Flow IAT Mean": 11267.6666666667,
+    "Flow IAT Std": 11750.055503415,
+    "Flow IAT Max": 23447,
+    "Flow IAT Min": 0,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 410567,
+    "Flow IAT Mean": 410567.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 410567,
+    "Flow IAT Min": 410567,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 436,
+    "Flow IAT Mean": 436.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 436,
+    "Flow IAT Min": 436,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 10907,
+    "Flow IAT Mean": 5453.5,
+    "Flow IAT Std": 7658.6735470315,
+    "Flow IAT Max": 10869,
+    "Flow IAT Min": 38,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 379495,
+    "Flow IAT Mean": 9035.5952380952,
+    "Flow IAT Std": 16872.3418185481,
+    "Flow IAT Max": 74391,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 14562105,
+    "Flow IAT Mean": 14562105.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 14562105,
+    "Flow IAT Min": 14562105,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 293,
+    "Flow IAT Mean": 293.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 293,
+    "Flow IAT Min": 293,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 378012,
+    "Flow IAT Mean": 8591.1818181818,
+    "Flow IAT Std": 17541.3468766011,
+    "Flow IAT Max": 80385,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2888774,
+    "Flow IAT Mean": 206341.0,
+    "Flow IAT Std": 260182.075945644,
+    "Flow IAT Max": 940119,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4827276,
+    "Flow IAT Mean": 1609092.0,
+    "Flow IAT Std": 2765301.38699365,
+    "Flow IAT Max": 4802187,
+    "Flow IAT Min": 12504,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 67888,
+    "Flow IAT Mean": 22629.3333333333,
+    "Flow IAT Std": 36398.4294349816,
+    "Flow IAT Max": 64620,
+    "Flow IAT Min": 74,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1504245,
+    "Flow IAT Mean": 752122.5,
+    "Flow IAT Std": 19050.1637919468,
+    "Flow IAT Max": 765593,
+    "Flow IAT Min": 738652,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 405,
+    "Flow IAT Mean": 405.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 405,
+    "Flow IAT Min": 405,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54288378,
+    "Flow IAT Mean": 54288378.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54288378,
+    "Flow IAT Min": 54288378,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2452309,
+    "Flow IAT Mean": 175164.928571429,
+    "Flow IAT Std": 251942.906178078,
+    "Flow IAT Max": 953162,
+    "Flow IAT Min": 69,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 964,
+    "Flow IAT Mean": 964.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 964,
+    "Flow IAT Min": 964,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 12601,
+    "Flow IAT Mean": 12601.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12601,
+    "Flow IAT Min": 12601,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2418457,
+    "Flow IAT Mean": 172746.928571429,
+    "Flow IAT Std": 251874.028466144,
+    "Flow IAT Max": 953238,
+    "Flow IAT Min": 92,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 835,
+    "Flow IAT Mean": 139.1666666667,
+    "Flow IAT Std": 98.8380830787,
+    "Flow IAT Max": 251,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 326909,
+    "Flow IAT Mean": 7602.5348837209,
+    "Flow IAT Std": 17943.2838401724,
+    "Flow IAT Max": 81560,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 42,
+    "Flow IAT Mean": 42.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 42,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115925689,
+    "Flow IAT Mean": 3997437.55172414,
+    "Flow IAT Std": 4849565.03360251,
+    "Flow IAT Max": 10013965,
+    "Flow IAT Min": 49,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 42,
+    "Flow IAT Mean": 42.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 42,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 336,
+    "Flow IAT Mean": 336.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 336,
+    "Flow IAT Min": 336,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 382958,
+    "Flow IAT Mean": 8703.5909090909,
+    "Flow IAT Std": 22925.4430023066,
+    "Flow IAT Max": 135940,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54896184,
+    "Flow IAT Mean": 54896184.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54896184,
+    "Flow IAT Min": 54896184,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2039689,
+    "Flow IAT Mean": 145692.071428571,
+    "Flow IAT Std": 246605.691758341,
+    "Flow IAT Max": 953118,
+    "Flow IAT Min": 74,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 388840,
+    "Flow IAT Mean": 9042.7906976744,
+    "Flow IAT Std": 18713.2670705879,
+    "Flow IAT Max": 97006,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1043,
+    "Flow IAT Mean": 1043.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1043,
+    "Flow IAT Min": 1043,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1469139,
+    "Flow IAT Mean": 133558.090909091,
+    "Flow IAT Std": 152694.118723974,
+    "Flow IAT Max": 293324,
+    "Flow IAT Min": 37,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 393620,
+    "Flow IAT Mean": 9600.4878048781,
+    "Flow IAT Std": 25252.7566021236,
+    "Flow IAT Max": 150722,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 33,
+    "Flow IAT Mean": 33.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 33,
+    "Flow IAT Min": 33,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 357611,
+    "Flow IAT Mean": 8316.5348837209,
+    "Flow IAT Std": 19305.0495680828,
+    "Flow IAT Max": 90121,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 352008,
+    "Flow IAT Mean": 8381.1428571429,
+    "Flow IAT Std": 21490.3141126886,
+    "Flow IAT Max": 119351,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 373808,
+    "Flow IAT Mean": 8693.2093023256,
+    "Flow IAT Std": 16247.3575661928,
+    "Flow IAT Max": 69096,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 14382,
+    "Flow IAT Mean": 14382.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 14382,
+    "Flow IAT Min": 14382,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 355,
+    "Flow IAT Mean": 355.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 355,
+    "Flow IAT Min": 355,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 35565,
+    "Flow IAT Mean": 11855.0,
+    "Flow IAT Std": 17322.8699412078,
+    "Flow IAT Max": 31738,
+    "Flow IAT Min": 21,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5434186,
+    "Flow IAT Mean": 362279.066666667,
+    "Flow IAT Std": 1370124.7082996,
+    "Flow IAT Max": 5314499,
+    "Flow IAT Min": 10,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2768419,
+    "Flow IAT Mean": 197744.214285714,
+    "Flow IAT Std": 259244.226127286,
+    "Flow IAT Max": 953203,
+    "Flow IAT Min": 90,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 369636,
+    "Flow IAT Mean": 9015.512195122,
+    "Flow IAT Std": 19820.8253411935,
+    "Flow IAT Max": 101634,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54631596,
+    "Flow IAT Mean": 54631596.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54631596,
+    "Flow IAT Min": 54631596,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2670,
+    "Flow IAT Mean": 1335.0,
+    "Flow IAT Std": 1838.477631085,
+    "Flow IAT Max": 2635,
+    "Flow IAT Min": 35,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 110281169,
+    "Flow IAT Mean": 15534.7470066206,
+    "Flow IAT Std": 390321.689328595,
+    "Flow IAT Max": 9980256,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 89992619,
+    "Flow IAT Mean": 29997539.6666667,
+    "Flow IAT Std": 14384.2114950154,
+    "Flow IAT Max": 30010424,
+    "Flow IAT Min": 29982020,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5382833,
+    "Flow IAT Mean": 768976.142857143,
+    "Flow IAT Std": 2007244.93332158,
+    "Flow IAT Max": 5320685,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 65551,
+    "Flow IAT Mean": 65551.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 65551,
+    "Flow IAT Min": 65551,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 65,
+    "Flow IAT Mean": 65.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 65,
+    "Flow IAT Min": 65,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 13392,
+    "Flow IAT Mean": 13392.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 13392,
+    "Flow IAT Min": 13392,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 802,
+    "Flow IAT Mean": 133.6666666667,
+    "Flow IAT Std": 108.6087780369,
+    "Flow IAT Max": 301,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 15,
+    "Flow IAT Mean": 15.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 15,
+    "Flow IAT Min": 15,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 105,
+    "Flow IAT Mean": 105.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 105,
+    "Flow IAT Min": 105,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 600,
+    "Flow IAT Mean": 600.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 600,
+    "Flow IAT Min": 600,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 60619539,
+    "Flow IAT Mean": 3190502.05263158,
+    "Flow IAT Std": 4751599.74077131,
+    "Flow IAT Max": 10004070,
+    "Flow IAT Min": 45,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5803373,
+    "Flow IAT Mean": 829053.285714286,
+    "Flow IAT Std": 2166189.23716671,
+    "Flow IAT Max": 5741235,
+    "Flow IAT Min": 37,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 21042282,
+    "Flow IAT Mean": 5260570.5,
+    "Flow IAT Std": 5129295.21605256,
+    "Flow IAT Max": 12015378,
+    "Flow IAT Min": 116,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 343324,
+    "Flow IAT Mean": 7984.2790697674,
+    "Flow IAT Std": 20970.5896485049,
+    "Flow IAT Max": 86028,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 57,
+    "Flow IAT Mean": 57.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 57,
+    "Flow IAT Min": 57,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1254,
+    "Flow IAT Mean": 1254.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1254,
+    "Flow IAT Min": 1254,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 81,
+    "Flow IAT Mean": 81.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 81,
+    "Flow IAT Min": 81,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 39049,
+    "Flow IAT Mean": 39049.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 39049,
+    "Flow IAT Min": 39049,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 117910672,
+    "Flow IAT Mean": 4912944.66666667,
+    "Flow IAT Std": 16462005.3384117,
+    "Flow IAT Max": 58764450,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1460164,
+    "Flow IAT Mean": 91260.25,
+    "Flow IAT Std": 174006.311002599,
+    "Flow IAT Max": 686267,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2310691,
+    "Flow IAT Mean": 154046.066666667,
+    "Flow IAT Std": 237437.879112612,
+    "Flow IAT Max": 949019,
+    "Flow IAT Min": 84,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 393902,
+    "Flow IAT Mean": 9607.3658536585,
+    "Flow IAT Std": 22903.6447053259,
+    "Flow IAT Max": 121007,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1404917,
+    "Flow IAT Mean": 100351.214285714,
+    "Flow IAT Std": 251868.369373668,
+    "Flow IAT Max": 968775,
+    "Flow IAT Min": 53,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1421,
+    "Flow IAT Mean": 1421.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1421,
+    "Flow IAT Min": 1421,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2194775,
+    "Flow IAT Mean": 137173.4375,
+    "Flow IAT Std": 163099.489253633,
+    "Flow IAT Max": 553412,
+    "Flow IAT Min": 37,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1797,
+    "Flow IAT Mean": 1797.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1797,
+    "Flow IAT Min": 1797,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 30,
+    "Flow IAT Mean": 30.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 30,
+    "Flow IAT Min": 30,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 371539,
+    "Flow IAT Mean": 8640.4418604651,
+    "Flow IAT Std": 17496.7165604107,
+    "Flow IAT Max": 86912,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 102,
+    "Flow IAT Mean": 102.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 102,
+    "Flow IAT Min": 102,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 71,
+    "Flow IAT Mean": 71.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 71,
+    "Flow IAT Min": 71,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 338,
+    "Flow IAT Mean": 338.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 338,
+    "Flow IAT Min": 338,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 344208,
+    "Flow IAT Mean": 8004.8372093023,
+    "Flow IAT Std": 19005.5735383199,
+    "Flow IAT Max": 87898,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 494,
+    "Flow IAT Mean": 494.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 494,
+    "Flow IAT Min": 494,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 51624,
+    "Flow IAT Mean": 17208.0,
+    "Flow IAT Std": 19025.0523520962,
+    "Flow IAT Max": 37875,
+    "Flow IAT Min": 424,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1060,
+    "Flow IAT Mean": 1060.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1060,
+    "Flow IAT Min": 1060,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2832048,
+    "Flow IAT Mean": 166591.058823529,
+    "Flow IAT Std": 242185.969027024,
+    "Flow IAT Max": 953118,
+    "Flow IAT Min": 46,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1024878,
+    "Flow IAT Mean": 102487.8,
+    "Flow IAT Std": 134809.379937253,
+    "Flow IAT Max": 337174,
+    "Flow IAT Min": 65,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1571,
+    "Flow IAT Mean": 1571.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1571,
+    "Flow IAT Min": 1571,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 494,
+    "Flow IAT Mean": 494.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 494,
+    "Flow IAT Min": 494,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 755,
+    "Flow IAT Mean": 125.8333333333,
+    "Flow IAT Std": 90.4685949193,
+    "Flow IAT Max": 254,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1222706,
+    "Flow IAT Mean": 111155.090909091,
+    "Flow IAT Std": 127140.324974773,
+    "Flow IAT Max": 252583,
+    "Flow IAT Min": 43,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115727211,
+    "Flow IAT Mean": 3990593.48275862,
+    "Flow IAT Std": 4871207.65144306,
+    "Flow IAT Max": 10010113,
+    "Flow IAT Min": 44,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 117010728,
+    "Flow IAT Mean": 4500412.61538462,
+    "Flow IAT Std": 15870799.2783763,
+    "Flow IAT Max": 58681603,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 22,
+    "Flow IAT Mean": 22.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 22,
+    "Flow IAT Min": 22,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 325,
+    "Flow IAT Mean": 325.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 325,
+    "Flow IAT Min": 325,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 12660,
+    "Flow IAT Mean": 12660.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12660,
+    "Flow IAT Min": 12660,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 5375013,
+    "Flow IAT Mean": 597223.666666667,
+    "Flow IAT Std": 1741022.79510967,
+    "Flow IAT Max": 5239494,
+    "Flow IAT Min": 15,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 42,
+    "Flow IAT Mean": 42.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 42,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 20121,
+    "Flow IAT Mean": 20121.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 20121,
+    "Flow IAT Min": 20121,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 8,
+    "Flow IAT Mean": 8.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 8,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 973,
+    "Flow IAT Mean": 973.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 973,
+    "Flow IAT Min": 973,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2446084,
+    "Flow IAT Mean": 152880.25,
+    "Flow IAT Std": 169391.674505961,
+    "Flow IAT Max": 493003,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 281,
+    "Flow IAT Mean": 281.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 281,
+    "Flow IAT Min": 281,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 71,
+    "Flow IAT Mean": 23.6666666667,
+    "Flow IAT Std": 21.5019378972,
+    "Flow IAT Max": 42,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 194723,
+    "Flow IAT Mean": 64907.6666666667,
+    "Flow IAT Std": 112202.546256016,
+    "Flow IAT Max": 194468,
+    "Flow IAT Min": 90,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 351,
+    "Flow IAT Mean": 351.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 351,
+    "Flow IAT Min": 351,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1033,
+    "Flow IAT Mean": 1033.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1033,
+    "Flow IAT Min": 1033,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 333,
+    "Flow IAT Mean": 333.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 333,
+    "Flow IAT Min": 333,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54123657,
+    "Flow IAT Mean": 54123657.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54123657,
+    "Flow IAT Min": 54123657,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 117347853,
+    "Flow IAT Mean": 4046477.68965517,
+    "Flow IAT Std": 15035157.5604538,
+    "Flow IAT Max": 58670417,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 115966391,
+    "Flow IAT Mean": 2899159.775,
+    "Flow IAT Std": 4514266.32479288,
+    "Flow IAT Max": 10016312,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 141,
+    "Flow IAT Mean": 141.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 141,
+    "Flow IAT Min": 141,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2796538,
+    "Flow IAT Mean": 199752.714285714,
+    "Flow IAT Std": 260359.684241281,
+    "Flow IAT Max": 953144,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 119,
+    "Flow IAT Mean": 119.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 119,
+    "Flow IAT Min": 119,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 79462,
+    "Flow IAT Mean": 13243.6666666667,
+    "Flow IAT Std": 7558.4061194584,
+    "Flow IAT Max": 19597,
+    "Flow IAT Min": 45,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 408416,
+    "Flow IAT Mean": 408416.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 408416,
+    "Flow IAT Min": 408416,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1322,
+    "Flow IAT Mean": 1322.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1322,
+    "Flow IAT Min": 1322,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 118858095,
+    "Flow IAT Mean": 169797.278571429,
+    "Flow IAT Std": 3100041.16498049,
+    "Flow IAT Max": 58048132,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 9774,
+    "Flow IAT Mean": 9774.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 9774,
+    "Flow IAT Min": 9774,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1475593,
+    "Flow IAT Mean": 105399.5,
+    "Flow IAT Std": 251369.677816359,
+    "Flow IAT Max": 968805,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 116156802,
+    "Flow IAT Mean": 2978379.53846154,
+    "Flow IAT Std": 4521225.12196035,
+    "Flow IAT Max": 10011682,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 762,
+    "Flow IAT Mean": 127.0,
+    "Flow IAT Std": 77.3149403414,
+    "Flow IAT Max": 241,
+    "Flow IAT Min": 29,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 119,
+    "Flow IAT Mean": 119.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 119,
+    "Flow IAT Min": 119,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 83,
+    "Flow IAT Mean": 83.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 83,
+    "Flow IAT Min": 83,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 610022,
+    "Flow IAT Mean": 46924.7692307692,
+    "Flow IAT Std": 64313.9683987258,
+    "Flow IAT Max": 136065,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 394124,
+    "Flow IAT Mean": 9612.7804878049,
+    "Flow IAT Std": 25806.2831462729,
+    "Flow IAT Max": 150533,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19327,
+    "Flow IAT Mean": 19327.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19327,
+    "Flow IAT Min": 19327,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 17535,
+    "Flow IAT Mean": 17535.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 17535,
+    "Flow IAT Min": 17535,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 135,
+    "Flow IAT Mean": 135.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 135,
+    "Flow IAT Min": 135,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 383664,
+    "Flow IAT Mean": 8719.6363636364,
+    "Flow IAT Std": 20908.4673869068,
+    "Flow IAT Max": 110739,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 469,
+    "Flow IAT Mean": 469.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 469,
+    "Flow IAT Min": 469,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 218525,
+    "Flow IAT Mean": 72841.6666666667,
+    "Flow IAT Std": 125477.880896728,
+    "Flow IAT Max": 217731,
+    "Flow IAT Min": 300,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 239,
+    "Flow IAT Mean": 119.5,
+    "Flow IAT Std": 136.471608769,
+    "Flow IAT Max": 216,
+    "Flow IAT Min": 23,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7069202,
+    "Flow IAT Mean": 441825.125,
+    "Flow IAT Std": 916202.987336676,
+    "Flow IAT Max": 3726769,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 352227,
+    "Flow IAT Mean": 8386.3571428571,
+    "Flow IAT Std": 25400.5733570984,
+    "Flow IAT Max": 139535,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1299781,
+    "Flow IAT Mean": 92841.5,
+    "Flow IAT Std": 257626.559410128,
+    "Flow IAT Max": 984702,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 14,
+    "Flow IAT Mean": 14.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 14,
+    "Flow IAT Min": 14,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 385006,
+    "Flow IAT Mean": 8953.6279069768,
+    "Flow IAT Std": 23895.4570787233,
+    "Flow IAT Max": 115478,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 201870,
+    "Flow IAT Mean": 13458.0,
+    "Flow IAT Std": 27065.1382541136,
+    "Flow IAT Max": 98770,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 12930,
+    "Flow IAT Mean": 12930.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 12930,
+    "Flow IAT Min": 12930,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 35,
+    "Flow IAT Mean": 35.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 35,
+    "Flow IAT Min": 35,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 255905,
+    "Flow IAT Mean": 85301.6666666667,
+    "Flow IAT Std": 146533.903122565,
+    "Flow IAT Max": 254504,
+    "Flow IAT Min": 365,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1433455,
+    "Flow IAT Mean": 102389.642857143,
+    "Flow IAT Std": 251382.193301694,
+    "Flow IAT Max": 968699,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 595,
+    "Flow IAT Mean": 595.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 595,
+    "Flow IAT Min": 595,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 22303,
+    "Flow IAT Mean": 7434.3333333333,
+    "Flow IAT Std": 9070.4842943105,
+    "Flow IAT Max": 17645,
+    "Flow IAT Min": 309,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1564,
+    "Flow IAT Mean": 1564.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1564,
+    "Flow IAT Min": 1564,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 384332,
+    "Flow IAT Mean": 8937.9534883721,
+    "Flow IAT Std": 24493.8608984388,
+    "Flow IAT Max": 113318,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 417629,
+    "Flow IAT Mean": 9712.3023255814,
+    "Flow IAT Std": 27217.7325229736,
+    "Flow IAT Max": 156848,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 18,
+    "Flow IAT Mean": 18.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 18,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 971,
+    "Flow IAT Mean": 485.5,
+    "Flow IAT Std": 661.1448404094,
+    "Flow IAT Max": 953,
+    "Flow IAT Min": 18,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5441889,
+    "Flow IAT Mean": 777412.714285714,
+    "Flow IAT Std": 2029592.56515199,
+    "Flow IAT Max": 5379805,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 285,
+    "Flow IAT Mean": 142.5,
+    "Flow IAT Std": 2.1213203436,
+    "Flow IAT Max": 144,
+    "Flow IAT Min": 141,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 40,
+    "Flow IAT Mean": 40.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 40,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 77,
+    "Flow IAT Mean": 77.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 77,
+    "Flow IAT Min": 77,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 100,
+    "Flow IAT Mean": 33.3333333333,
+    "Flow IAT Std": 25.4230866209,
+    "Flow IAT Max": 49,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 139,
+    "Flow IAT Mean": 139.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 139,
+    "Flow IAT Min": 139,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 372182,
+    "Flow IAT Mean": 8655.3953488372,
+    "Flow IAT Std": 17450.7309645505,
+    "Flow IAT Max": 90232,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 88,
+    "Flow IAT Mean": 88.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 88,
+    "Flow IAT Min": 88,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 395614,
+    "Flow IAT Mean": 9200.3255813954,
+    "Flow IAT Std": 16918.1301366328,
+    "Flow IAT Max": 74153,
+    "Flow IAT Min": 8,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4039,
+    "Flow IAT Mean": 4039.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4039,
+    "Flow IAT Min": 4039,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 261,
+    "Flow IAT Mean": 261.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 261,
+    "Flow IAT Min": 261,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 31,
+    "Flow IAT Mean": 31.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 31,
+    "Flow IAT Min": 31,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 383768,
+    "Flow IAT Mean": 8722.0,
+    "Flow IAT Std": 19580.2065718253,
+    "Flow IAT Max": 87301,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 67629,
+    "Flow IAT Mean": 22543.0,
+    "Flow IAT Std": 37851.1990298854,
+    "Flow IAT Max": 66249,
+    "Flow IAT Min": 461,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 17,
+    "Flow IAT Mean": 17.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 17,
+    "Flow IAT Min": 17,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 25168,
+    "Flow IAT Mean": 8389.3333333333,
+    "Flow IAT Std": 14476.1920522399,
+    "Flow IAT Max": 25105,
+    "Flow IAT Min": 30,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 367610,
+    "Flow IAT Mean": 8549.0697674419,
+    "Flow IAT Std": 23328.1707684031,
+    "Flow IAT Max": 106076,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 506091,
+    "Flow IAT Mean": 50609.1,
+    "Flow IAT Std": 64802.7237569705,
+    "Flow IAT Max": 126238,
+    "Flow IAT Min": 71,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 331,
+    "Flow IAT Mean": 331.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 331,
+    "Flow IAT Min": 331,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 283,
+    "Flow IAT Mean": 141.5,
+    "Flow IAT Std": 20.5060966544,
+    "Flow IAT Max": 156,
+    "Flow IAT Min": 127,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 646,
+    "Flow IAT Mean": 646.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 646,
+    "Flow IAT Min": 646,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2342,
+    "Flow IAT Mean": 1171.0,
+    "Flow IAT Std": 1626.3455967291,
+    "Flow IAT Max": 2321,
+    "Flow IAT Min": 21,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 279,
+    "Flow IAT Mean": 139.5,
+    "Flow IAT Std": 163.3416664541,
+    "Flow IAT Max": 255,
+    "Flow IAT Min": 24,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 307512,
+    "Flow IAT Mean": 7151.4418604651,
+    "Flow IAT Std": 19827.8868447619,
+    "Flow IAT Max": 107460,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 108058,
+    "Flow IAT Mean": 54029.0,
+    "Flow IAT Std": 76380.2602902085,
+    "Flow IAT Max": 108038,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2125,
+    "Flow IAT Mean": 2125.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2125,
+    "Flow IAT Min": 2125,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 384557,
+    "Flow IAT Mean": 9379.4390243902,
+    "Flow IAT Std": 20091.6416564809,
+    "Flow IAT Max": 87511,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 304514,
+    "Flow IAT Mean": 7250.3333333333,
+    "Flow IAT Std": 19564.2375324888,
+    "Flow IAT Max": 93860,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 15,
+    "Flow IAT Mean": 15.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 15,
+    "Flow IAT Min": 15,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 317,
+    "Flow IAT Mean": 317.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 317,
+    "Flow IAT Min": 317,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 13,
+    "Flow IAT Mean": 13.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 13,
+    "Flow IAT Min": 13,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 416485,
+    "Flow IAT Mean": 416485.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 416485,
+    "Flow IAT Min": 416485,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 378495,
+    "Flow IAT Mean": 8802.2093023256,
+    "Flow IAT Std": 33372.9436631062,
+    "Flow IAT Max": 209352,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 10536291,
+    "Flow IAT Mean": 215026.346938775,
+    "Flow IAT Std": 664994.029976133,
+    "Flow IAT Max": 3972391,
+    "Flow IAT Min": 51,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5832383,
+    "Flow IAT Mean": 833197.571428572,
+    "Flow IAT Std": 2177212.85590208,
+    "Flow IAT Max": 5770383,
+    "Flow IAT Min": 41,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 128,
+    "Flow IAT Mean": 128.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 128,
+    "Flow IAT Min": 128,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 283,
+    "Flow IAT Mean": 283.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 283,
+    "Flow IAT Min": 283,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 804178,
+    "Flow IAT Mean": 73107.0909090909,
+    "Flow IAT Std": 82608.4759046607,
+    "Flow IAT Max": 163583,
+    "Flow IAT Min": 40,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 406727,
+    "Flow IAT Mean": 9458.7674418605,
+    "Flow IAT Std": 15697.6926706674,
+    "Flow IAT Max": 60288,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 324,
+    "Flow IAT Mean": 324.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 324,
+    "Flow IAT Min": 324,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2362201,
+    "Flow IAT Mean": 147637.5625,
+    "Flow IAT Std": 266485.100279163,
+    "Flow IAT Max": 953224,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 2174,
+    "Flow IAT Mean": 2174.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2174,
+    "Flow IAT Min": 2174,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 582,
+    "Flow IAT Mean": 291.0,
+    "Flow IAT Std": 384.6660889655,
+    "Flow IAT Max": 563,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 41951,
+    "Flow IAT Mean": 20975.5,
+    "Flow IAT Std": 29502.6162314463,
+    "Flow IAT Max": 41837,
+    "Flow IAT Min": 114,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 121,
+    "Flow IAT Mean": 121.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 121,
+    "Flow IAT Min": 121,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 58,
+    "Flow IAT Mean": 19.3333333333,
+    "Flow IAT Std": 14.2243921956,
+    "Flow IAT Max": 29,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 272,
+    "Flow IAT Mean": 272.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 272,
+    "Flow IAT Min": 272,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 4675609,
+    "Flow IAT Mean": 275035.823529412,
+    "Flow IAT Std": 666738.783836316,
+    "Flow IAT Max": 2700108,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 294,
+    "Flow IAT Mean": 294.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 294,
+    "Flow IAT Min": 294,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 117355949,
+    "Flow IAT Mean": 543314.578703703,
+    "Flow IAT Std": 2225619.90195284,
+    "Flow IAT Max": 10014536,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 395797,
+    "Flow IAT Mean": 9653.5853658537,
+    "Flow IAT Std": 18371.9542849633,
+    "Flow IAT Max": 86476,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1061,
+    "Flow IAT Mean": 176.8333333333,
+    "Flow IAT Std": 125.8052728095,
+    "Flow IAT Max": 335,
+    "Flow IAT Min": 0,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 421,
+    "Flow IAT Mean": 210.5,
+    "Flow IAT Std": 270.8218971944,
+    "Flow IAT Max": 402,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 199826,
+    "Flow IAT Mean": 99913.0,
+    "Flow IAT Std": 141270.035386136,
+    "Flow IAT Max": 199806,
+    "Flow IAT Min": 20,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 27,
+    "Flow IAT Mean": 27.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 27,
+    "Flow IAT Min": 27,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 4,
+    "Flow IAT Mean": 4.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 4,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 5,
+    "Flow IAT Mean": 5.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 5,
+    "Flow IAT Min": 5,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 112636348,
+    "Flow IAT Mean": 56318174.0,
+    "Flow IAT Std": 59.3969696197,
+    "Flow IAT Max": 56318216,
+    "Flow IAT Min": 56318132,
+    "Protocol": 0,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 388059,
+    "Flow IAT Mean": 9024.6279069768,
+    "Flow IAT Std": 16979.3610907103,
+    "Flow IAT Max": 79953,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 104278664,
+    "Flow IAT Mean": 52139332.0,
+    "Flow IAT Std": 73496881.0690692,
+    "Flow IAT Max": 104109475,
+    "Flow IAT Min": 169189,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 3,
+    "Flow IAT Mean": 3.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 3,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 590,
+    "Flow IAT Mean": 590.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 590,
+    "Flow IAT Min": 590,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 19,
+    "Flow IAT Mean": 19.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 19,
+    "Flow IAT Min": 19,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 54598390,
+    "Flow IAT Mean": 54598390.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 54598390,
+    "Flow IAT Min": 54598390,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 380151,
+    "Flow IAT Mean": 8840.7209302326,
+    "Flow IAT Std": 19969.6302518714,
+    "Flow IAT Max": 82654,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 273917,
+    "Flow IAT Mean": 91305.6666666667,
+    "Flow IAT Std": 158069.849298762,
+    "Flow IAT Max": 273829,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 403097,
+    "Flow IAT Mean": 9374.3488372093,
+    "Flow IAT Std": 25637.2991992635,
+    "Flow IAT Max": 121757,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 2,
+    "Flow IAT Mean": 2.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 2,
+    "Flow IAT Min": 2,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 7,
+    "Flow IAT Mean": 7.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 7,
+    "Flow IAT Min": 7,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 9210,
+    "Flow IAT Mean": 9210.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 9210,
+    "Flow IAT Min": 9210,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1375,
+    "Flow IAT Mean": 1375.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1375,
+    "Flow IAT Min": 1375,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 416023,
+    "Flow IAT Mean": 9674.9534883721,
+    "Flow IAT Std": 23733.2396961303,
+    "Flow IAT Max": 113787,
+    "Flow IAT Min": 4,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 361370,
+    "Flow IAT Mean": 8604.0476190476,
+    "Flow IAT Std": 27778.3445493088,
+    "Flow IAT Max": 171399,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 1,
+    "Flow IAT Mean": 1.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 1,
+    "Flow IAT Min": 1,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 302,
+    "Flow IAT Mean": 302.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 302,
+    "Flow IAT Min": 302,
+    "Protocol": 17,
+    "Label": "Normal"
+  },
+  {
+    "Flow Duration": 6,
+    "Flow IAT Mean": 6.0,
+    "Flow IAT Std": 0.0,
+    "Flow IAT Max": 6,
+    "Flow IAT Min": 6,
+    "Protocol": 6,
+    "Label": "Attack"
+  },
+  {
+    "Flow Duration": 384682,
+    "Flow IAT Mean": 8946.0930232558,
+    "Flow IAT Std": 23517.0308153919,
+    "Flow IAT Max": 132163,
+    "Flow IAT Min": 3,
+    "Protocol": 6,
+    "Label": "Attack"
+  }
+]

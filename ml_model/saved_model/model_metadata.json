@@ -1,0 +1,15 @@
+{
+  "features": [
+    "Flow Duration",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Flow IAT Min",
+    "Protocol"
+  ],
+  "accuracy": 0.8118000030517578,
+  "n_samples_train": 40000,
+  "n_samples_test": 10000,
+  "model_type": "NeuralNetwork",
+  "architecture": "64-32-16-2"
+}
