@@ -36,3 +36,7 @@ yarn-error.log*
 # React
 *.log
 
+# Large dataset files (too big for GitHub)
+cicids2018/*.csv
+ml_model/saved_model/*.pkl
+ml_model/saved_model/*.h5
